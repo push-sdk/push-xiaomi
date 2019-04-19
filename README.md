@@ -6,6 +6,8 @@
 
 [华为推送](https://www.npmjs.com/package/push-huawei)
 
+[魅族推送](https://www.npmjs.com/package/push-meizu)
+
 ## 安装
 ```
 npm install push-xiaomi --save-dev
