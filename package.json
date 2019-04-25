@@ -1,12 +1,14 @@
 {
   "name": "push-xiaomi",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "push-xiaomi",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "axios": "0.18.0",
     "querystring": "0.2.0"
+  },
+  "devDependencies": {
+    
   },
   "files": [
     "lib"
