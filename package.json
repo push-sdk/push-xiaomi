@@ -1,9 +1,10 @@
 {
   "name": "push-xiaomi",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "push-xiaomi",
   "main": "index.js",
   "dependencies": {
+    "lodash": "4.17.11",
     "axios": "0.18.0",
     "querystring": "0.2.0"
   },
