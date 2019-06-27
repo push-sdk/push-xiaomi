@@ -50,4 +50,18 @@ xiaomi.push({
 |...|详细参数看小米官方文档|
 
 
+```javascript
+const Xiaomi = require('push-xiaomi');
+const xiaomi = new Xiaomi({
+  appId: 'appId',
+  appSecret: 'appSecret',
+  appPkgName: '应用包名'
+});
+
+xiaomi.query({
+  msg_id: [...msg_id] // 消息id
+});
+```
+
+
 [小米官方文档](https://dev.mi.com/console/doc/detail?pId=1163#_0)
